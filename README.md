@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-<!--
-**i1l518/i1l518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 프로젝트 목록
+
+## ACR_Setting
+- **내용**: Firebase와 Unity를 연결하는 방법에 대한 프로젝트입니다.
+- **링크**: [GitHub Repository](https://github.com/i1l518/ACR_Setting)
+
+## 2024_Capstone
+- **내용**: 인공지능을 이용한 요리 도우미에 대한 프로젝트입니다.
+- **링크**: [GitHub Repository](https://github.com/koesnujmik/2024_Capstone)
 
 Here are some ideas to get you started:
 
